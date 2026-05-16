@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.list-container {
+  display: flex;
+  flex-direction: column;
+  width: 98%;
+}
+.title-date-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.separation {
+  border: 1px solid gray;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 98%;
+}
+.description {
+  font-size: 28px;
+  color:#9aa5b1;
+}
+.date{
+  font-size:25px;
+  color:#9aa5b1;
+  padding-left:20px;
+}

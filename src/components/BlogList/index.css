@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.blogs-list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.heading-date-container {
+  display: flex;
+  flex-direction: space-between;
+  align-items: center;
+}
